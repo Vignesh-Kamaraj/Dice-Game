@@ -1,0 +1,73 @@
+.dice {
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.dice1 {
+    display: flex;
+    margin: 25px;
+    text-align: center;
+    justify-content: center;
+}
+
+#roll1 {
+    background-color: green;
+    color: white;
+    border: none;
+    width: 75px;
+    height: 25px;
+    padding: 5px;
+}
+
+#roll2 {
+    background-color: green;
+    color: white;
+    border: none;
+    width: 75px;
+    height: 25px;
+    padding: 5px;
+}
+
+#reset {
+    width: 75px;
+    height: 25px;
+    border: none;
+    background-color: grey;
+    color: black;
+    padding: 5px;
+}
+
+#img {
+    height: 125px;
+    width: 125px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#d1 {
+    color: green;
+}
+
+#d3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+#d4 {
+    display: flex;
+    justify-content: center;
+}
+
+#choose {
+    font-size: x-large;
+}
+
+#p1score {
+    font-size: x-large;
+}
+
+#p2score {
+    font-size: x-large;
+}
